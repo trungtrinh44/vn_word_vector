@@ -1,6 +1,6 @@
 # Vietnamese Word Vector
 
-* The pretrained word vectors are available [here](https://drive.google.com/open?id=1aIRcRu7YloDjm8f-zaM0ZUCDLzHC0QzI).
+* The pretrained word vectors are available [here](https://drive.google.com/open?id=1aIRcRu7YloDjm8f-zaM0ZUCDLzHC0QzI) (using HCMUT email to access).
 * There are 2 types of word vector: unigram and segmented.
 * Each of them is trained using 3 methods: CBOW, Skip-gram and GloVe
 * To use the unigram word vector, use the `clean_text` function in `preprocess.py` to prepare the texts before mapping them to word vectors.
